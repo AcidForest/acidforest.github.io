@@ -27,7 +27,7 @@ FOLLOW THIS FORMAT:
 
 body {
     color: white;
-    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-family: 'Verdana', Helvetica, sans-serif;
     background-color: black;
 }
 
@@ -128,7 +128,7 @@ body {
 #account-details
 {
     font-size: 12px;
-    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-family: 'Verdana', Helvetica, sans-serif;
     line-height: 16px;
     background-color: #494432;
 }
@@ -199,7 +199,7 @@ a.highlighted {
 }
 
 a.info-link {
-    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-family: 'Verdana', Helvetica, sans-serif;
     font-size: 14px;
 }
 
@@ -598,7 +598,7 @@ h3 {
 
     font-size: 11px;
     font-weight: lighter;
-    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-family: 'Verdana', Helvetica, sans-serif;
     text-align: right;
     color: #a9a9a9;
     -moz-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
@@ -914,7 +914,7 @@ div.uploader span.action
 
 .game-content form.change-kingdom #royal-commands table tbody td,
 .game-content form.change-kingdom #royal-commands input[type=text] {
-    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-family: 'Verdana', Helvetica, sans-serif;
     font-size: 13px;
     font-weight: normal;
 }
