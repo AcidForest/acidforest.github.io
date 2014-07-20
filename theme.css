@@ -19,7 +19,7 @@ FOLLOW THIS FORMAT:
 
 body {
     color: #FFFFFE;
-    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-family: 'Verdana', Helvetica, sans-serif;
     background-color: black;
 }
 
@@ -103,7 +103,7 @@ body {
 #account-details
 {
     font-size: 12px;
-    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-family: 'Verdana', Helvetica, sans-serif;
     line-height: 16px;
     background-color: black;
 }
@@ -414,7 +414,7 @@ h3 {
 
     font-size: 12px;
     font-weight: lighter;
-    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-family: 'Verdana', Helvetica, sans-serif;
     text-align: right;
     color: #fff;
 }
