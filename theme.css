@@ -41,7 +41,7 @@ body {
     /* internal styling - padding etc. */
 
      /* typography */
-    font-size: 16px;
+    font-size: 13px;
     font-weight: normal;
     text-align: left;
 
@@ -262,7 +262,7 @@ h3 {
 }
 
 .lobby-panel table th {
-    font-size: 14px;
+    font-size: 13px;
 }
 
 .lobby-panel table td {
@@ -270,13 +270,13 @@ h3 {
 }
 
 .lobby-panel h2 {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 24px;
 }
 
 .age-changes h3,
 .campaigns h3 {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 22px;
 }
 
@@ -293,11 +293,11 @@ h3 {
 }
 
 .campaigns .basic-details .campaign-summary h2{
-    font-size: 14px;
+    font-size: 13px;
 }
 
 .campaigns .basic-details .campaign-summary .highlight-keyword{
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .good {
@@ -469,14 +469,14 @@ form ul.errorlist {
 
 .game-content form.change-kingdom {
     /* typography */
-    font-size: 14px;
+    font-size: 13px;
 
     background-color: #400000;
 }
 
 .game-content form.change-kingdom .change-kingdom-heading {
     margin-top: 10px;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 22px;
 }
 
@@ -590,7 +590,7 @@ div.uploader span.action {
 
 .game-content form table thead th {
     font-weight: normal;
-    font-size: 14px;
+    font-size: 13px;
     text-align: center;
     text-decoration: none;
     vertical-align: bottom;
@@ -767,7 +767,7 @@ td.news-province-modification {
     margin: 0px 2px;
     padding: 6px 6px 1px 6px;
 
-    font-size: 14px;
+    font-size: 13px;
     text-decoration: none;
 
     -moz-box-shadow: -1px -1px 1px 1px #788183;
@@ -815,7 +815,7 @@ td.news-province-modification {
     margin-top: 15px;
 
     line-height: 20px;
-    font-size: 14px;
+    font-size: 13px;
 }
 
 .game-content thead th {
@@ -1007,5 +1007,9 @@ body.wysiwyg {
 }
 
 .campaigns .campaign-message-intro {
-    font-size: 14px;
+    font-size: 13px;
+}
+
+#throne-monarch-message p {
+    font-size: 13px;
 }
